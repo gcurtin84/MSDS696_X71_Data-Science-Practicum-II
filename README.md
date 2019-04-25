@@ -10,7 +10,7 @@ As a metal enthusiast, it is difficult to find new bands that meet your particul
 
 This project had three phrases: data collection, text cleansing, and machine learning modeling.  Data collection included a webscrape from [Metallyrica.com](http://www.metallyrica.com/).  
 
-### Phase I: Web Scrape Script
+### Phase I: [Web Scrape Script](https://github.com/gMSDS696_X71_Data-Science-Practicum-II/blob/master/metallyrica_scrape.R
 
 The webscrape resulted in the lyrics of almost 140,000 songs from 8246 bands. (insert link to script)
 
