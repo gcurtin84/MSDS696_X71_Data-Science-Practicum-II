@@ -28,7 +28,7 @@ The Latent Dirichlet allocation model was used to separate song lyrics into vari
 
 Language Counts
 
-![Lang Counts](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/Languages.png)
+![Lang Counts](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/language_barplot.png)
 
 ### Topic Model Categories
 
