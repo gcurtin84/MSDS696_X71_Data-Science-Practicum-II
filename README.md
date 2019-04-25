@@ -22,7 +22,7 @@ In addition to the usual text cleansing tasks, the textcat function was used to 
 
 The Latent Dirichlet allocation model was used to separate song lyrics into various numbers of categories.  (insert link to script)
 
-## EDA
+## EDA and Topic Modeling
 
 Wordcounts
 
