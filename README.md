@@ -24,9 +24,17 @@ The Latent Dirichlet allocation model was used to separate song lyrics into vari
 
 ## EDA and Topic Modeling
 
-Wordcounts
+### Wordcounts
 
-![wordcounts](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/Cat_Word_Probability.png)
+
+
+### Topic Model Categories
+
+Top Words by Frequency
+![Top Words](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/Cat_Top_Words.png)
+
+Top Words by Probability
+![Most Probable Words](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/Cat_Word_Probability.png)
 
 
 Looking at the correlations below, I found that the pass stats and FPTS had the highest correlations to the target parameter (NxtWk.FPTS).  For this reason, I decided to use the Pass.Yards and FPTS in my ML models.
