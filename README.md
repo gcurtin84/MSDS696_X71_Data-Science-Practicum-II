@@ -28,29 +28,8 @@ Wordcounts
 
 ![str](https://github.com/gcurtin84/MSDS692_X41_Data-Science-Practicum-I/blob/master/Str_AllQBStats.png)
 
-![summary](https://github.com/gcurtin84/MSDS692_X41_Data-Science-Practicum-I/blob/master/Summary_AllStats.png)
 
 Looking at the correlations below, I found that the pass stats and FPTS had the highest correlations to the target parameter (NxtWk.FPTS).  For this reason, I decided to use the Pass.Yards and FPTS in my ML models.
-
-![Pass Correlations](https://github.com/gcurtin84/MSDS692_X41_Data-Science-Practicum-I/blob/master/Plot_PassQBStats.png)
-
-![Rush Correlations](https://github.com/gcurtin84/MSDS692_X41_Data-Science-Practicum-I/blob/master/Plot_RushQBStats.png)
-
-![Corrplot](https://github.com/gcurtin84/MSDS692_X41_Data-Science-Practicum-I/blob/master/Corrplot_Allstats.png)
-
-The  is created using the [Stats Dataset](https://github.com/gcurtin84/MSDS692_X41_Data-Science-Practicum-I/blob/master/Stats_Dataset.R).  For each week of football the next week's stats for each player were added to the current week.  For example, I combined the week 1 stats with the week 2 stats.  The goal of this project is to use a week's stats to predict the following weeks fantasy points.
-
-## Results
-
-The best model defined ...
-
-#### KNN Predictions vs. Targets:
-![KNN Predictions](https://github.com/gcurtin84/MSDS692_X41_Data-Science-Practicum-I/blob/master/KNN_Table.png)
-
-#### SVM Predictions vs. Targets:
-![SVM Predictions](https://github.com/gcurtin84/MSDS692_X41_Data-Science-Practicum-I/blob/master/SVM_Table.png)
-
-## Abbreviations
 
 ## Sources
 
