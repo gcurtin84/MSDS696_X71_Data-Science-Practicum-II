@@ -12,11 +12,11 @@ This project had three phrases: data collection, text cleansing, and machine lea
 
 ### Phase I: Web Scrape Script
 
-The webscrape resulted in the lyrics of almost 110,000 songs from 8246 bands. (insert link to script)
+The webscrape resulted in the lyrics of almost 140,000 songs from 8246 bands. (insert link to script)
 
 ### Phase II: Text Cleansing
 
-Summary of text cleasing phase (insert link to script)
+In addition to the usual text cleansing tasks, the textcat function was used to identify text language and filter out non-English lyrics.  Song count lowered to around 110,000 after language identification. (insert link to script)
 
 ### Phase III: Topic Modeling
 
