@@ -14,9 +14,9 @@ This project had three phrases: data collection, text cleansing, and machine lea
 
 The webscrape resulted in the lyrics of almost 140,000 songs from 8246 bands. (insert link to script)
 
-### Phase II: Text Cleansing
+### Phase II: [Text Cleansing](https://github.com/gMSDS696_X71_Data-Science-Practicum-II/blob/master/cleanse_and_model.R)
 
-In addition to the usual text cleansing tasks, the textcat function was used to identify text language and filter out non-English lyrics.  Song count lowered to around 110,000 after language identification. (insert link to script)
+In addition to the usual text cleansing tasks, the textcat function was used to identify text language and filter out non-English lyrics.  Song count lowered to around 110,000 after language identification.
 
 ### Phase III: Topic Modeling
 
@@ -38,7 +38,7 @@ Looking at the correlations below, I found that the pass stats and FPTS had the 
 
 ![Corrplot](https://github.com/gcurtin84/MSDS692_X41_Data-Science-Practicum-I/blob/master/Corrplot_Allstats.png)
 
-The [Combined Dataset](https://github.com/gcurtin84/MSDS692_X41_Data-Science-Practicum-I/blob/master/Combined_Dataset.R) is created using the [Stats Dataset](https://github.com/gcurtin84/MSDS692_X41_Data-Science-Practicum-I/blob/master/Stats_Dataset.R).  For each week of football the next week's stats for each player were added to the current week.  For example, I combined the week 1 stats with the week 2 stats.  The goal of this project is to use a week's stats to predict the following weeks fantasy points.
+The  is created using the [Stats Dataset](https://github.com/gcurtin84/MSDS692_X41_Data-Science-Practicum-I/blob/master/Stats_Dataset.R).  For each week of football the next week's stats for each player were added to the current week.  For example, I combined the week 1 stats with the week 2 stats.  The goal of this project is to use a week's stats to predict the following weeks fantasy points.
 
 ## Results
 
