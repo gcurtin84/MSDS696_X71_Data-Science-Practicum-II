@@ -24,9 +24,10 @@ The Latent Dirichlet allocation model was used to separate song lyrics into vari
 
 ## EDA and Topic Modeling
 
-### Wordcounts
+### Data Set
 
-
+Language Counts
+![Lang Counts](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/Languages.png)
 
 ### Topic Model Categories
 
