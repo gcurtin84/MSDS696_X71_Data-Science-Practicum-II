@@ -30,6 +30,8 @@ Language Counts
 
 ![Lang Counts](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/language_barplot.png)
 
+The chart above shows the highest occuring song lyric languages.  The vast majority of songs were in the English language. I opted to remove English from the output to better show the runner's up.
+
 Word Counts
 
 ![Word Counts](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/Word_Counts.png)
