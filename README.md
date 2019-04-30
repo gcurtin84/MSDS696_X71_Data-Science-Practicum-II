@@ -30,6 +30,10 @@ Language Counts
 
 ![Lang Counts](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/language_barplot.png)
 
+Word Counts
+
+![Word Counts](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/Word_Counts.png)
+
 ### Topic Model Categories
 
 Top Words by Frequency
