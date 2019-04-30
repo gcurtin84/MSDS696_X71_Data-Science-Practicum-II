@@ -20,7 +20,7 @@ In addition to the usual text cleansing tasks, the textcat function was used to 
 
 ### Phase III: [Topic Modeling](https://github.com/gMSDS696_X71_Data-Science-Practicum-II/blob/master/cleanse_and_model.R)
 
-The Latent Dirichlet allocation model was used to separate song lyrics into various numbers of categories.  (insert link to script)
+The Latent Dirichlet allocation model was used to separate song lyrics into various numbers of categories.
 
 ## EDA and Topic Modeling
 
