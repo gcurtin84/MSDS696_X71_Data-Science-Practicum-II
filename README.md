@@ -36,7 +36,7 @@ Word Counts
 
 ![Word Counts](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/Word_Counts.png)
 
-This visualization shows the frequency of word counts
+This visualization shows a histogram depicting the frequency of word counts in 50 word buckets.  As part of cleaning the scraped data set, I removed any entries that had less than 100 words.  This made the cleaning process much simplier than identifying which entries were actual songs and which were unwanted entries left over from the HTML document they came from.  This explains why the 0 to 50 and 50 to 100 bins are empty.  The majority of song word counts were between 100 and 400.  The lowest word count is 100 while the largest was over 5000.
 
 ### Topic Model Categories
 
