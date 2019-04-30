@@ -12,7 +12,7 @@ This project had three phrases: data collection, text cleansing, and machine lea
 
 ### Phase I: [Web Scrape](https://github.com/gMSDS696_X71_Data-Science-Practicum-II/blob/master/metallyrica_scrape.R)
 
-The webscrape resulted in the lyrics of almost 140,000 songs from 8246 bands. (insert link to script)
+The webscrape resulted in the lyrics of almost 140,000 songs from 8246 bands.
 
 ### Phase II: [Text Cleansing](https://github.com/gMSDS696_X71_Data-Science-Practicum-II/blob/master/cleanse_and_model.R)
 
