@@ -26,6 +26,8 @@ The Latent Dirichlet allocation model was used to separate song lyrics into vari
 
 ### Data Set
 
+After scraping and cleansing the data, the metal lyrics data set was comprised of just under 140,000 songs which were labeled by language.   This data set was then 
+
 Language Counts
 
 ![Lang Counts](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/language_barplot.png)
