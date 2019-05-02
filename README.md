@@ -45,11 +45,12 @@ This visualization shows a histogram depicting the frequency of word counts in 5
 Top Words by Frequency
 ![Top Words](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/Cat_Top_Words.png)
 
+The above chart shows the word with the highest frequency by category.  Topic modeling needs to be interpreted by humans.  My interpretation of these two categories are realism vs. fantastic lyrical content.  My assumption is that earlier metal bands used fantasy type themes.  Later bands, especially in the U.S., were influenced by the realism of rap lyrics. In addition to differences in time I think this difference in lyrical content is also related to geographic region.  It seems Northern European bands still use more fantastic themed lyrics while bands in the U.S an U.K. seem to use realism.
+
 Top Words by Probability
 ![Most Probable Words](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/Cat_Word_Probability.png)
 
-
-Looking at the correlations below, I found that the pass stats and FPTS had the highest correlations to the target parameter (NxtWk.FPTS).  For this reason, I decided to use the Pass.Yards and FPTS in my ML models.
+This visualization shows the words that are most likely to appear in one category and not in the other.  This further highlights the realism vs. fantasy theme as previously explained.
 
 ## Sources
 
