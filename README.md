@@ -28,12 +28,12 @@ The Latent Dirichlet allocation model was used to separate song lyrics into vari
 
 After scraping and cleansing the data, the metal lyrics data set was comprised of just under 140,000 songs which were labeled by language.  The data set resulted in 6 columns:
 
-lyrics = Actual lyrical content of the song
-band = Band Name
-album = Album Name
-wordcount = Count of words in the song
-songname = Name of the song
-language = Language of the song
+1) lyrics = Actual lyrical content of the song
+2) band = Band Name
+3) album = Album Name
+4) wordcount = Count of words in the song
+5) songname = Name of the song
+6) language = Language of the song
 
 ![Data Set](https://github.com/gcurtin84/MSDS696_X71_Data-Science-Practicum-II/blob/master/DataSet.png)
 
